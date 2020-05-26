@@ -7,3 +7,6 @@
 [submodule "Golang-Training"]
 	path = Golang-Training
 	url = https://github.com/rafaelpardor/Golang-Training
+[submodule "Bash-Training"]
+	path = Bash-Training
+	url = git@github.com:rafaelpardor/Bash-Training.git
