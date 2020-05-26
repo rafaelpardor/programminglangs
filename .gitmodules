@@ -1,3 +1,6 @@
 [submodule "CPP-Training"]
 	path = CPP-Training
 	url = https://github.com/rafaelpardor/CPP-Training
+[submodule "C-Training"]
+	path = C-Training
+	url = git@github.com:rafaelpardor/C-Training.git
