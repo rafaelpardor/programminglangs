@@ -4,3 +4,6 @@
 [submodule "C-Training"]
 	path = C-Training
 	url = git@github.com:rafaelpardor/C-Training.git
+[submodule "Golang-Training"]
+	path = Golang-Training
+	url = https://github.com/rafaelpardor/Golang-Training
