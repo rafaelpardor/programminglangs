@@ -10,3 +10,6 @@
 [submodule "Bash-Training"]
 	path = Bash-Training
 	url = git@github.com:rafaelpardor/Bash-Training.git
+[submodule "Javascript-Training"]
+	path = Javascript-Training
+	url = git@github.com:rafaelpardor/Javascript-Training.git
