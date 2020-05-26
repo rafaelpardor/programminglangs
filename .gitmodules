@@ -1,12 +1,12 @@
 [submodule "CPP-Training"]
 	path = CPP-Training
-	url = https://github.com/rafaelpardor/CPP-Training
+	url = git@github.com:rafaelpardor/CPP-Training
 [submodule "C-Training"]
 	path = C-Training
 	url = git@github.com:rafaelpardor/C-Training.git
 [submodule "Golang-Training"]
 	path = Golang-Training
-	url = https://github.com/rafaelpardor/Golang-Training
+	url = git@github.com:rafaelpardor/Golang-Training
 [submodule "Bash-Training"]
 	path = Bash-Training
 	url = git@github.com:rafaelpardor/Bash-Training.git
