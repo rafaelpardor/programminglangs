@@ -13,3 +13,6 @@
 [submodule "Javascript-Training"]
 	path = Javascript-Training
 	url = git@github.com:rafaelpardor/Javascript-Training.git
+[submodule "CSharp-Training"]
+	path = CSharp-Training
+	url = git@github.com:rafaelpardor/CSharp-Training.git
