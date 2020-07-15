@@ -19,3 +19,6 @@
 [submodule "Java-Training"]
 	path = Java-Training
 	url = git@github.com:rafaelpardor/Java-Training.git
+[submodule "Python-Training"]
+	path = Python-Training
+	url = git@github.com:rafaelpardor/Python-Training.git
